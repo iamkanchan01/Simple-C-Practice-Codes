@@ -1,0 +1,14 @@
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\NumMultiplicationTable\bin\Debug\netcoreapp3.1\NumMultiplicationTable.exe
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\NumMultiplicationTable\bin\Debug\netcoreapp3.1\NumMultiplicationTable.deps.json
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\NumMultiplicationTable\bin\Debug\netcoreapp3.1\NumMultiplicationTable.runtimeconfig.json
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\NumMultiplicationTable\bin\Debug\netcoreapp3.1\NumMultiplicationTable.runtimeconfig.dev.json
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\NumMultiplicationTable\bin\Debug\netcoreapp3.1\NumMultiplicationTable.dll
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\NumMultiplicationTable\bin\Debug\netcoreapp3.1\NumMultiplicationTable.pdb
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\NumMultiplicationTable\obj\Debug\netcoreapp3.1\NumMultiplicationTable.csproj.AssemblyReference.cache
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\NumMultiplicationTable\obj\Debug\netcoreapp3.1\NumMultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\NumMultiplicationTable\obj\Debug\netcoreapp3.1\NumMultiplicationTable.AssemblyInfoInputs.cache
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\NumMultiplicationTable\obj\Debug\netcoreapp3.1\NumMultiplicationTable.AssemblyInfo.cs
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\NumMultiplicationTable\obj\Debug\netcoreapp3.1\NumMultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\NumMultiplicationTable\obj\Debug\netcoreapp3.1\NumMultiplicationTable.dll
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\NumMultiplicationTable\obj\Debug\netcoreapp3.1\NumMultiplicationTable.pdb
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\NumMultiplicationTable\obj\Debug\netcoreapp3.1\NumMultiplicationTable.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\PalidromeString\bin\Debug\netcoreapp3.1\PalidromeString.exe
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\PalidromeString\bin\Debug\netcoreapp3.1\PalidromeString.deps.json
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\PalidromeString\bin\Debug\netcoreapp3.1\PalidromeString.runtimeconfig.json
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\PalidromeString\bin\Debug\netcoreapp3.1\PalidromeString.runtimeconfig.dev.json
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\PalidromeString\bin\Debug\netcoreapp3.1\PalidromeString.dll
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\PalidromeString\bin\Debug\netcoreapp3.1\PalidromeString.pdb
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\PalidromeString\obj\Debug\netcoreapp3.1\PalidromeString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\PalidromeString\obj\Debug\netcoreapp3.1\PalidromeString.AssemblyInfoInputs.cache
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\PalidromeString\obj\Debug\netcoreapp3.1\PalidromeString.AssemblyInfo.cs
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\PalidromeString\obj\Debug\netcoreapp3.1\PalidromeString.csproj.CoreCompileInputs.cache
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\PalidromeString\obj\Debug\netcoreapp3.1\PalidromeString.dll
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\PalidromeString\obj\Debug\netcoreapp3.1\PalidromeString.pdb
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\PalidromeString\obj\Debug\netcoreapp3.1\PalidromeString.genruntimeconfig.cache
