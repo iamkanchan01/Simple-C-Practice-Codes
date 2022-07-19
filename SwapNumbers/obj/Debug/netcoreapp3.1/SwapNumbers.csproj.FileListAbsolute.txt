@@ -1,0 +1,13 @@
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.exe
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.deps.json
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.runtimeconfig.json
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.runtimeconfig.dev.json
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.dll
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.pdb
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.AssemblyInfoInputs.cache
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.AssemblyInfo.cs
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.csproj.CoreCompileInputs.cache
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.dll
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.pdb
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.genruntimeconfig.cache
