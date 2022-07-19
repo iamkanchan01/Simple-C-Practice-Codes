@@ -1,0 +1,13 @@
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\factorialNo\bin\Debug\netcoreapp3.1\factorialNo.exe
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\factorialNo\bin\Debug\netcoreapp3.1\factorialNo.deps.json
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\factorialNo\bin\Debug\netcoreapp3.1\factorialNo.runtimeconfig.json
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\factorialNo\bin\Debug\netcoreapp3.1\factorialNo.runtimeconfig.dev.json
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\factorialNo\bin\Debug\netcoreapp3.1\factorialNo.dll
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\factorialNo\bin\Debug\netcoreapp3.1\factorialNo.pdb
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\factorialNo\obj\Debug\netcoreapp3.1\factorialNo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\factorialNo\obj\Debug\netcoreapp3.1\factorialNo.AssemblyInfoInputs.cache
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\factorialNo\obj\Debug\netcoreapp3.1\factorialNo.AssemblyInfo.cs
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\factorialNo\obj\Debug\netcoreapp3.1\factorialNo.csproj.CoreCompileInputs.cache
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\factorialNo\obj\Debug\netcoreapp3.1\factorialNo.dll
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\factorialNo\obj\Debug\netcoreapp3.1\factorialNo.pdb
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\factorialNo\obj\Debug\netcoreapp3.1\factorialNo.genruntimeconfig.cache

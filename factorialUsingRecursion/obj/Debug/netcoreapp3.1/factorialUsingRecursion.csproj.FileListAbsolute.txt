@@ -1,0 +1,13 @@
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\factorialUsingRecursion\bin\Debug\netcoreapp3.1\factorialUsingRecursion.exe
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\factorialUsingRecursion\bin\Debug\netcoreapp3.1\factorialUsingRecursion.deps.json
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\factorialUsingRecursion\bin\Debug\netcoreapp3.1\factorialUsingRecursion.runtimeconfig.json
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\factorialUsingRecursion\bin\Debug\netcoreapp3.1\factorialUsingRecursion.runtimeconfig.dev.json
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\factorialUsingRecursion\bin\Debug\netcoreapp3.1\factorialUsingRecursion.dll
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\factorialUsingRecursion\bin\Debug\netcoreapp3.1\factorialUsingRecursion.pdb
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\factorialUsingRecursion\obj\Debug\netcoreapp3.1\factorialUsingRecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\factorialUsingRecursion\obj\Debug\netcoreapp3.1\factorialUsingRecursion.AssemblyInfoInputs.cache
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\factorialUsingRecursion\obj\Debug\netcoreapp3.1\factorialUsingRecursion.AssemblyInfo.cs
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\factorialUsingRecursion\obj\Debug\netcoreapp3.1\factorialUsingRecursion.csproj.CoreCompileInputs.cache
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\factorialUsingRecursion\obj\Debug\netcoreapp3.1\factorialUsingRecursion.dll
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\factorialUsingRecursion\obj\Debug\netcoreapp3.1\factorialUsingRecursion.pdb
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\factorialUsingRecursion\obj\Debug\netcoreapp3.1\factorialUsingRecursion.genruntimeconfig.cache
