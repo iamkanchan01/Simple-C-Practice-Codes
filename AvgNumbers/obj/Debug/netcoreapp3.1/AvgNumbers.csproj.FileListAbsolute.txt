@@ -1,0 +1,13 @@
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\AvgNumbers\bin\Debug\netcoreapp3.1\AvgNumbers.exe
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\AvgNumbers\bin\Debug\netcoreapp3.1\AvgNumbers.deps.json
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\AvgNumbers\bin\Debug\netcoreapp3.1\AvgNumbers.runtimeconfig.json
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\AvgNumbers\bin\Debug\netcoreapp3.1\AvgNumbers.runtimeconfig.dev.json
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\AvgNumbers\bin\Debug\netcoreapp3.1\AvgNumbers.dll
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\AvgNumbers\bin\Debug\netcoreapp3.1\AvgNumbers.pdb
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\AvgNumbers\obj\Debug\netcoreapp3.1\AvgNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\AvgNumbers\obj\Debug\netcoreapp3.1\AvgNumbers.AssemblyInfoInputs.cache
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\AvgNumbers\obj\Debug\netcoreapp3.1\AvgNumbers.AssemblyInfo.cs
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\AvgNumbers\obj\Debug\netcoreapp3.1\AvgNumbers.csproj.CoreCompileInputs.cache
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\AvgNumbers\obj\Debug\netcoreapp3.1\AvgNumbers.dll
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\AvgNumbers\obj\Debug\netcoreapp3.1\AvgNumbers.pdb
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\AvgNumbers\obj\Debug\netcoreapp3.1\AvgNumbers.genruntimeconfig.cache
