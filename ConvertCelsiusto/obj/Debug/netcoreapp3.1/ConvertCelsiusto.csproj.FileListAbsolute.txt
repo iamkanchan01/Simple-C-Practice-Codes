@@ -1,0 +1,13 @@
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\ConvertCelsiusto\bin\Debug\netcoreapp3.1\ConvertCelsiusto.exe
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\ConvertCelsiusto\bin\Debug\netcoreapp3.1\ConvertCelsiusto.deps.json
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\ConvertCelsiusto\bin\Debug\netcoreapp3.1\ConvertCelsiusto.runtimeconfig.json
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\ConvertCelsiusto\bin\Debug\netcoreapp3.1\ConvertCelsiusto.runtimeconfig.dev.json
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\ConvertCelsiusto\bin\Debug\netcoreapp3.1\ConvertCelsiusto.dll
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\ConvertCelsiusto\bin\Debug\netcoreapp3.1\ConvertCelsiusto.pdb
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\ConvertCelsiusto\obj\Debug\netcoreapp3.1\ConvertCelsiusto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\ConvertCelsiusto\obj\Debug\netcoreapp3.1\ConvertCelsiusto.AssemblyInfoInputs.cache
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\ConvertCelsiusto\obj\Debug\netcoreapp3.1\ConvertCelsiusto.AssemblyInfo.cs
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\ConvertCelsiusto\obj\Debug\netcoreapp3.1\ConvertCelsiusto.csproj.CoreCompileInputs.cache
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\ConvertCelsiusto\obj\Debug\netcoreapp3.1\ConvertCelsiusto.dll
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\ConvertCelsiusto\obj\Debug\netcoreapp3.1\ConvertCelsiusto.pdb
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\ConvertCelsiusto\obj\Debug\netcoreapp3.1\ConvertCelsiusto.genruntimeconfig.cache
