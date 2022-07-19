@@ -1,4 +1,4 @@
-## Simple-C-Practice-Codes
+## Simple-C#-Practice-Codes
 
 
 -----------------------------------
