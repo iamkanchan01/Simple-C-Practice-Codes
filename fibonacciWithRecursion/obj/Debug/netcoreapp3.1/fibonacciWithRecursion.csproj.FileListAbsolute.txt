@@ -1,0 +1,13 @@
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\fibonacciWithRecursion\bin\Debug\netcoreapp3.1\fibonacciWithRecursion.exe
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\fibonacciWithRecursion\bin\Debug\netcoreapp3.1\fibonacciWithRecursion.deps.json
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\fibonacciWithRecursion\bin\Debug\netcoreapp3.1\fibonacciWithRecursion.runtimeconfig.json
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\fibonacciWithRecursion\bin\Debug\netcoreapp3.1\fibonacciWithRecursion.runtimeconfig.dev.json
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\fibonacciWithRecursion\bin\Debug\netcoreapp3.1\fibonacciWithRecursion.dll
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\fibonacciWithRecursion\bin\Debug\netcoreapp3.1\fibonacciWithRecursion.pdb
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\fibonacciWithRecursion\obj\Debug\netcoreapp3.1\fibonacciWithRecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\fibonacciWithRecursion\obj\Debug\netcoreapp3.1\fibonacciWithRecursion.AssemblyInfoInputs.cache
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\fibonacciWithRecursion\obj\Debug\netcoreapp3.1\fibonacciWithRecursion.AssemblyInfo.cs
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\fibonacciWithRecursion\obj\Debug\netcoreapp3.1\fibonacciWithRecursion.csproj.CoreCompileInputs.cache
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\fibonacciWithRecursion\obj\Debug\netcoreapp3.1\fibonacciWithRecursion.dll
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\fibonacciWithRecursion\obj\Debug\netcoreapp3.1\fibonacciWithRecursion.pdb
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\fibonacciWithRecursion\obj\Debug\netcoreapp3.1\fibonacciWithRecursion.genruntimeconfig.cache
