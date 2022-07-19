@@ -1,0 +1,14 @@
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\SimpleCodes\bin\Debug\netcoreapp3.1\SimpleCodes.exe
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\SimpleCodes\bin\Debug\netcoreapp3.1\SimpleCodes.deps.json
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\SimpleCodes\bin\Debug\netcoreapp3.1\SimpleCodes.runtimeconfig.json
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\SimpleCodes\bin\Debug\netcoreapp3.1\SimpleCodes.runtimeconfig.dev.json
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\SimpleCodes\bin\Debug\netcoreapp3.1\SimpleCodes.dll
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\SimpleCodes\bin\Debug\netcoreapp3.1\SimpleCodes.pdb
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\SimpleCodes\obj\Debug\netcoreapp3.1\SimpleCodes.csproj.AssemblyReference.cache
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\SimpleCodes\obj\Debug\netcoreapp3.1\SimpleCodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\SimpleCodes\obj\Debug\netcoreapp3.1\SimpleCodes.AssemblyInfoInputs.cache
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\SimpleCodes\obj\Debug\netcoreapp3.1\SimpleCodes.AssemblyInfo.cs
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\SimpleCodes\obj\Debug\netcoreapp3.1\SimpleCodes.csproj.CoreCompileInputs.cache
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\SimpleCodes\obj\Debug\netcoreapp3.1\SimpleCodes.dll
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\SimpleCodes\obj\Debug\netcoreapp3.1\SimpleCodes.pdb
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\SimpleCodes\obj\Debug\netcoreapp3.1\SimpleCodes.genruntimeconfig.cache

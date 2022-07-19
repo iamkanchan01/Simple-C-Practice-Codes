@@ -1,0 +1,13 @@
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\ReverseNumber\bin\Debug\netcoreapp3.1\ReverseNumber.exe
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\ReverseNumber\bin\Debug\netcoreapp3.1\ReverseNumber.deps.json
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\ReverseNumber\bin\Debug\netcoreapp3.1\ReverseNumber.runtimeconfig.json
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\ReverseNumber\bin\Debug\netcoreapp3.1\ReverseNumber.runtimeconfig.dev.json
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\ReverseNumber\bin\Debug\netcoreapp3.1\ReverseNumber.dll
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\ReverseNumber\bin\Debug\netcoreapp3.1\ReverseNumber.pdb
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\ReverseNumber\obj\Debug\netcoreapp3.1\ReverseNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\ReverseNumber\obj\Debug\netcoreapp3.1\ReverseNumber.AssemblyInfoInputs.cache
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\ReverseNumber\obj\Debug\netcoreapp3.1\ReverseNumber.AssemblyInfo.cs
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\ReverseNumber\obj\Debug\netcoreapp3.1\ReverseNumber.csproj.CoreCompileInputs.cache
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\ReverseNumber\obj\Debug\netcoreapp3.1\ReverseNumber.dll
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\ReverseNumber\obj\Debug\netcoreapp3.1\ReverseNumber.pdb
+C:\Users\KANTHAKA\Documents\kanchan\C#Codes\SimpleCodes\ReverseNumber\obj\Debug\netcoreapp3.1\ReverseNumber.genruntimeconfig.cache
